@@ -88,6 +88,10 @@ section {
 	max-height: 24px; 
 	max-width: 28px;
 }
+.img-ig {
+	max-height: 28px; 
+	max-width: 28px;
+}
 
 .mt-3 {
     margin-top: 0 !important;
